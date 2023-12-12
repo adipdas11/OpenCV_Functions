@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Arrangement_Software/.idea/Arrangement_Software.iml" filepath="$PROJECT_DIR$/../Arrangement_Software/.idea/Arrangement_Software.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../FaceDetection/.idea/FaceDetection.iml" filepath="$PROJECT_DIR$/../FaceDetection/.idea/FaceDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../MobileNetSSD_ObjectDetection/.idea/MobileNetSSD_ObjectDetection.iml" filepath="$PROJECT_DIR$/../MobileNetSSD_ObjectDetection/.idea/MobileNetSSD_ObjectDetection.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OpenCV_Functions.iml" filepath="$PROJECT_DIR$/.idea/OpenCV_Functions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../TrafficSignClassification/.idea/TrafficSignClassification.iml" filepath="$PROJECT_DIR$/../TrafficSignClassification/.idea/TrafficSignClassification.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../YoloV3_ObjectDetection/.idea/YoloV3_ObjectDetection.iml" filepath="$PROJECT_DIR$/../YoloV3_ObjectDetection/.idea/YoloV3_ObjectDetection.iml" />
+    </modules>
+  </component>
+</project>
